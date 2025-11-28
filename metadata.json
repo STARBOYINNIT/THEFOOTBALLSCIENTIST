@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Footy Brainiac",
+  "description": "An advanced AI football analyst that predicts match outcomes, scores, and provides deep strategic insights using the Gemini API.",
+  "requestFramePermissions": []
+}
